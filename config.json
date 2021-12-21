@@ -1,0 +1,6 @@
+{
+	"ip":"private_pvp_server.aternos.me",
+	"port": "38670",
+	"name": "NRBot",
+	"auto-night-skip":"true"
+}
